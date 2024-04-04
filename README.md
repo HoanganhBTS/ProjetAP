@@ -24,7 +24,6 @@ Un bouton pour se connecter qui redirige vers la page d'accueuil du site.
 ![image](https://github.com/HoanganhBTS/ProjetAP/assets/124345096/334248f0-5153-4ca3-9d1f-b84ab80a7a82)
 
 
-En cours de finalisation : 
 Liste des réservations possibles et un formulaire pour que l'utilisateur puisse réserver une chambre.
 
 ![VirtualBoxVM_4mBc4Y27cD](https://github.com/HoanganhBTS/ProjetAP/assets/124345096/982d4faf-6063-4b3d-81ae-1bb932ce54c1)
